@@ -1,6 +1,6 @@
 {
   "name": "vite-react-typescript-starter",
-  "homepage": "https://elonhint.github.io/audio-converter/"
+  "homepage": "https://elonhint.github.io/audio-converter/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
